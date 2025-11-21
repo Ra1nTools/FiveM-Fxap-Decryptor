@@ -1,10 +1,7 @@
 # FiveM .fxap Decryptor – Keyless & Ultra Fast 🚀
 
-Instantly decrypt any FiveM `.fxap` locked resource without a license key.  
-No key? No problem – works 100% keyless on the latest FiveM .fxap format.
-
-![demo](https://via.placeholder.com/800x400.png?text=Decryption+Demo+Video+Here)  
-*(Replace the link above with your actual demo GIF/video)*
+Instantly decrypt any FiveM `fxap` locked resource without a cfx key.  
+No key? No problem – works 95% keyless on the latest FiveM .fxap format.
 
 ## ✨ Features
 
