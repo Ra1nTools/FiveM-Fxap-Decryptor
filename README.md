@@ -28,3 +28,4 @@ We do not support or condone piracy.
 *(c) 2025 – All rights reserved. For educational and legitimate recovery use only.*
 
 # Join our discord if you are intrested! https://discord.com/invite/nMGuZHPYu9
+# For more information you can also check out our website! https://raintools.se/
