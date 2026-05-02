@@ -1,14 +1,12 @@
-# FiveM .fxap Decryptor – Keyless & Ultra Fast 🚀
+# FiveM .fxap Decryptor – Ultra Fast 🚀
 
-Instantly decrypt any FiveM `fxap` locked resource without a cfx key.  
-No key? No problem – works 95% keyless on the latest FiveM .fxap format.
+Instantly decrypt any FiveM `fxap` locked resource.
 
 ## ✨ Features
 
-- ✅ **95% Keyless** – decrypt even if you dont have a cfx key with the resource
 - ✅ **Lightning Fast** – most resources decrypted in under 5 seconds  
+- ✅ **3D Fixer** – Automatically fixes 3d models.
 - ✅ **Always Up-to-Date** – supports the newest FiveM .fxap versions  
-- ✅ **Free Trial Available** – try before you buy (limited files)
 
 ## 🎯 Perfect For
 
@@ -27,5 +25,5 @@ We do not support or condone piracy.
 
 *(c) 2025 – All rights reserved. For educational and legitimate recovery use only.*
 
-# Join our discord if you are intrested! https://discord.com/invite/nMGuZHPYu9
-# For more information you can also check out our website! https://raintools.se/
+# Join our discord if you are intrested! https://discord.com/invite/5WGk5XPK9g
+# We are also selling the source code at a low price if you are intrested in creating your own service
